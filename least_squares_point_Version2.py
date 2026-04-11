@@ -1,6 +1,6 @@
 import numpy as np
 
-
+##Does same thing as Version 1 just written a little differently
 def LSPointLines(L: np.ndarray) -> np.ndarray:
  
     a_i = L[0, :].astype(float)  #Array of all a_i
